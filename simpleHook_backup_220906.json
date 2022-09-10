@@ -1,0 +1,11 @@
+[
+	{
+		"appName":"番茄免费小说",
+		"configs":"[{\"className\":\"com.dragon.read.user.e\",\"enable\":true,\"fieldClassName\":\"\",\"fieldName\":\"\",\"hookPoint\":\"after\",\"methodName\":\"b\",\"mode\":0,\"params\":\"\",\"resultValues\":\"true\",\"returnClassName\":\"\"},{\"className\":\"com.dragon.read.reader.ad.a.a\",\"enable\":true,\"fieldClassName\":\"\",\"fieldName\":\"\",\"hookPoint\":\"after\",\"methodName\":\"a\",\"mode\":0,\"params\":\"\",\"resultValues\":\"true\",\"returnClassName\":\"\"},{\"className\":\"com.dragon.read.update.b\",\"enable\":true,\"fieldClassName\":\"\",\"fieldName\":\"\",\"hookPoint\":\"after\",\"methodName\":\"a\",\"mode\":2,\"params\":\"\",\"resultValues\":\"\",\"returnClassName\":\"\"},{\"className\":\"com.dragon.read.ad.f.f\",\"enable\":true,\"fieldClassName\":\"\",\"fieldName\":\"\",\"hookPoint\":\"after\",\"methodName\":\"a\",\"mode\":0,\"params\":\"\",\"resultValues\":\"true\",\"returnClassName\":\"\"}]",
+		"description":"",
+		"enable":true,
+		"id":5,
+		"packageName":"com.dragon.read",
+		"versionName":"5.3.7.32"
+	}
+]
